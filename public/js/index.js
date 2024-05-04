@@ -78,5 +78,5 @@ if (bookBtn) {
 }
 
 if (alertMessage) {
-  showAlert('success', alertMessage, 20);
+  showAlert('success', alertMessage);
 }
