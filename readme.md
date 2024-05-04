@@ -37,13 +37,13 @@ To get started with Natours, follow these steps:
 
 ## API Documentation
 
-For detailed documentation on the API endpoints, refer to the [API documentation](`https://documenter.getpostman.com/view/32224262/2sA3JGeimW`).
+For detailed documentation on the API endpoints, refer to the [https://documenter.getpostman.com/view/32224262/2sA3JGeimW].
 
 ## Deployment
 
 In addition to being an API project, Natours also includes a server-rendered website to consume some of the endpoints. To access the website, follow these steps:
 
-1. Navigate to the deployed Natours website: [link-to-deployed-website](`https://natours-by-shady-c3fa1156a498.herokuapp.com/`)
+1. Navigate to the deployed Natours website: [https://natours-by-shady-c3fa1156a498.herokuapp.com/]
 2. Explore the website to view and interact with the available tours.
 
 ## Contributors
